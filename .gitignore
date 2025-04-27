@@ -1,0 +1,41 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider & VS Code
+.idea/
+.vscode/
+*.code-workspace
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# Entity Framework Migrations
+Migrations/
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+# npm packages (if any)
+node_modules/
+
+# Dotnet tools
+/.tools/
+
+# Other
+*.db
+*.sqlite
